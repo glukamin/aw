@@ -2,5 +2,5 @@
 
 CREATE VIEW AgentView
 AS SELECT * 
-FROM Agents
-WHERE Working_Area=’Bangalore’;
+FROM Agents1
+WHERE Working_Area=â€™Bangaloreâ€™;
