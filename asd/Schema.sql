@@ -8,16 +8,16 @@ DATABASE:	AdventureWorks2022
 	Data types:
 		AN, F, N, NS, ON, P
 	DDL triggers:
-		ddlDatabaseTriggerLog
+		ddl
 	Fulltext catalogs:
 		AW2016FullTextCatalog
 	Functions:
-		ufnGetAccountingEndDate, ufnGetAccountingStartDate, ufnGetContactInformation
+		ufn, ufnGetAccountingStartDate, ufnGetContactInformation
 		ufnGetDocumentStatusText, ufnGetProductDealerPrice, ufnGetProductListPrice
 		ufnGetProductStandardCost, ufnGetPurchaseOrderStatusText, ufnGetSalesOrderStatusText
 		ufnGetStock, ufnLeadingZeros
 	Procedures:
-		uspGetBillOfMaterials, uspGetEmployeeManagers, uspGetManagerEmployees
+		usp, uspGetEmployeeManagers, uspGetManagerEmployees
 		uspGetWhereUsedProductID, uspLogError, uspPrintError, uspSearchCandidateResumes
 		uspUpdateEmployeeHireInfo, uspUpdateEmployeeLogin, uspUpdateEmployeePersonalInfo
 	Schemas:
@@ -9788,4 +9788,4 @@ SET ARITHABORT ON
 SET NOCOUNT ON
 SET NUMERIC_ROUNDABORT OFF
 SET CONCAT_NULL_YIELDS_NULL ON
-GO
+NEW
