@@ -21,8 +21,8 @@ GO
 PRINT 'Beginning transaction STRUCTURE'
 BEGIN TRANSACTION _STRUCTURE_
 GO
--- Create Table [HumanResources].[Employee]
-Print 'Create Table [HumanResources].[Employee]'
+-- Create Table [HumanResources2].[Employee]
+Print 'Create Table [HumanResources2].[Employee]'
 GO
 SET ANSI_NULLS ON
 SET QUOTED_IDENTIFIER ON
