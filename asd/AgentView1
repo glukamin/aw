@@ -1,6 +1,6 @@
 /*SELECT with WHERE*/
 
-CREATE VIEW AgentView
+CREATE VIEW AgentView asd
 AS SELECT * 
 FROM Agents1
 WHERE Working_Area=’Bangalore’;
