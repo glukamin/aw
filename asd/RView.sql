@@ -1,4 +1,4 @@
-select * from dbo.EmployeeSchedule where CreatedBy = 'MDJ'
+select * from dbo.EmployeeSchedule1 where CreatedBy = 'MDJ'
 order by EffectiveDate
 
 select es.ID, t.ID, t.StartDate, es.EffectiveDate from dbo.Timesheet t
