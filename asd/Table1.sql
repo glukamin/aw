@@ -6,3 +6,5 @@ ma kaki qrc
 000000000
 
 bbbbbbbbbbbbbb
+
+newLocalEdit
