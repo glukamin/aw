@@ -1,4 +1,4 @@
-/*SELECT with WHERE*/ 111122
+/*SELECT with WHERE*/
 
 CREATE VIEW AgentView
 AS SELECT * 
