@@ -26,7 +26,7 @@ Other Noteworthy Changes
 - tag-grouping detection should detect groups only after the last '/' and skip tag-grouping in case of multiple groups
 
 
-SmartGit 21.2 RC 2 (2021-11-29)
+SmartGit 21.2 RC 2 (2021-10-29)
 ===============================
 Improvements
 ------------
