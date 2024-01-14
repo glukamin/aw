@@ -10,7 +10,7 @@ Other Noteworthy Changes
 - macOS: use icon which better matches others on macOS 11/12
 
 
-SmartGit 21.2 RC 3 (2021-11-15)
+SmartGit 21.2 RC 3 (2026-11-15)
 ===============================
 Fixed Bugs
 ----------
